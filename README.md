@@ -46,42 +46,6 @@ The goal is to have a well-organized collection of solutions for learning, refer
 - `HackerRank/` : problems from HackerRank  
 - `README.md` : this file  
 
-Each folder contains standalone C++ files named with problem IDs and titles where possible.
-
----
-
-## Problems Solved
-Examples:
-
-- **LeetCode**
-  - 1: Two Sum
-  - 2: Add Two Numbers
-  - 3: Longest Substring Without Repeating Characters
-
-### Skiena Exercises
-
-#### Interactive Tic-Tac-Toe (n × n board)
-An interactive Tic-Tac-Toe game for an n × n board using **O(n) space** and **O(1) time per move**.  
-This version ensures safe input and displays the board after each move.
-
-- **File:** [`Skiena/interactive_tic_tac_toe.cpp`](Skiena/interactive_tic_tac_toe.cpp)
-- **Usage:** Compile and run the standalone C++ program.
-- **Features:**
-  - Ensures input coordinates are within bounds.
-  - Prevents moves on already occupied cells.
-  - Displays the current board after each valid move.
-  - Reports the winner or a draw.
-
-**Notes:**
-- The first player is always 'O'.
-- Rows and columns are 0-indexed.
-- The game stops immediately when a player wins or if all cells are filled resulting in a draw.
-
-**Codeforces**
-  - Contest 1234: Problem A, Problem B, Problem C
-
----
-
 ## How to Run
 Each solution is a standalone C++ file. To compile and run:
 
