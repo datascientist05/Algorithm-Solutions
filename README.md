@@ -31,7 +31,7 @@ The goal is to have a well-organized collection of solutions for learning, refer
 
 ## Languages
 - C++  
-(You can add Python or other languages in the future if needed)
+- Python
 
 ---
 
