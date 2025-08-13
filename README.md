@@ -41,7 +41,7 @@ The goal is to have a well-organized collection of solutions for learning, refer
 
 ## Folder Structure
 - `LeetCode/` : solutions to LeetCode problems  
-- `Skiena/` : exercises from Skiena's book  
+- `Skiena/` : exercises from Skiena's book "The Algorithm Design Manual"  
 - `Codeforces/` : competitive programming contests  
 - `HackerRank/` : problems from HackerRank  
 - `README.md` : this file  
