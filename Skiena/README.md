@@ -16,18 +16,18 @@ All exercises are organized in separate subfolders for clarity.
 - `heap_kth_smallest/`  
   **Heap k-th Smallest**  
   - Determines if the k-th smallest element in a min-heap is ≥ x using efficient recursive traversal.  
-  - [File: main.cpp](heap_kth_smallest/main.cpp)
+  - [File: main.cpp](heap-kth-smallest/main.cpp)
 
 - `interval_scheduling/`  
   **Interval Scheduling (Activity Selection)**  
   - Greedy algorithm to select the maximum number of non-overlapping intervals.  
-  - File: `main.cpp`(interval_scheduling/main.cpp)
+  - [File: main.cpp](interval-scheduling/main.cpp)
 
 - `graph_traversal/`  
   **Graph Traversal: BFS & DFS**  
   - BFS and DFS traversal of graphs, with cycle detection for directed graphs.  
   - Adjacency list representation.  
-  - [File: main.cpp](graph_traversal/main.cpp)
+  - [File: main.cpp](graph-traversal/main.cpp)
 
 ---
 
