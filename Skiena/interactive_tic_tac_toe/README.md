@@ -1,4 +1,6 @@
-#### Interactive Tic-Tac-Toe (n × n board)
+## **1️⃣ Interactive Tic-Tac-Toe**
+
+# Interactive Tic-Tac-Toe (n × n board)
 An interactive Tic-Tac-Toe game for an n × n board using **O(n) space** and **O(1) time per move**.  
 This version ensures safe input and displays the board after each move.
 
