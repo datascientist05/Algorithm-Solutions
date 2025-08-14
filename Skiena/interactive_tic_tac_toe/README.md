@@ -3,7 +3,7 @@ An interactive Tic-Tac-Toe game for an n × n board using **O(n) space** and **O
 This version ensures safe input and displays the board after each move.
 
 - **Source:** Problem 3-8, *The Algorithm Design Manual* by Steven S. Skiena (p. 103)
-- **File:** [`interactive_tic_tac_toe.cpp`](interactive_tic_tac_toe.cpp)
+- **File:** [`main.cpp`](main.cpp)
 - **Usage:** Compile and run the standalone C++ program.
 - **Features:**
   - Ensures input coordinates are within bounds.
