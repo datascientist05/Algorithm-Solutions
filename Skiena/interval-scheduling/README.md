@@ -2,8 +2,6 @@
 
 # Interval Scheduling (Activity Selection Problem)
 
-Check whether the k-th smallest element in a binary heap is greater than or equal to a given number x, using **O(k) time** and pruning unneeded subtrees.
-
 Select the maximum number of non-overlapping activities using a **greedy algorithm** (sort by finishing time).
 
 - **Source:** Classic greedy algorithm exercise  
