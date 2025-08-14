@@ -6,7 +6,7 @@ Implement Breadth-First Search (BFS) and Depth-First Search (DFS) on adjacency l
 Includes optional **cycle detection for directed graphs**.
 
 - **Source:** Custom implementation for practice and competitive programming 
-- **File:** [`bfs_dfs.cpp`](bfs_dfs.cpp)
+- **File:** [`main.cpp`](main.cpp)
 - **Usage:** Compile and run the standalone C++ program.
 - **Features:**
   - BFS: explores vertices level by level.
