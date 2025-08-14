@@ -1,17 +1,19 @@
-## **2️⃣ Heap k-th Smallest Comparison**
+## **3️⃣ Graph BFS & DFS Traversal**
 
-# Heap k-th Smallest Comparison
+# Graph BFS & DFS Traversal
 
-Check whether the k-th smallest element in a binary heap is greater than or equal to a given number x, using **O(k) time** and pruning unneeded subtrees.
+Implement Breadth-First Search (BFS) and Depth-First Search (DFS) on adjacency list graphs.  
+Includes optional **cycle detection for directed graphs**.
 
-- **Source:** Custom implementation inspired by advanced heap exercises
-- **File:** [`main.cpp`](main.cpp)
+- **Source:** Custom implementation for practice and competitive programming 
+- **File:** [`bfs_dfs.cpp`](bfs_dfs.cpp)
 - **Usage:** Compile and run the standalone C++ program.
 - **Features:**
-  - Efficient heap traversal without fully extracting elements.
-  - Prunes subtrees that cannot contain relevant elements.
-  - Outputs "YES" if the k-th smallest element is ≥ x, otherwise "NO".
+  - BFS: explores vertices level by level.
+  - DFS: explores paths deeply before backtracking.
+  - Cycle detection in directed graphs using recursion stack.
 
 **Notes:**
-- Input: first n (heap size), then n heap elements, then k and x.
-- Uses 0-based indexing for array-based heap representation.
+- Input format: number of vertices n, number of edges m, then m pairs of vertices u v, then starting vertex s.
+- Can handle directed or undirected graphs by toggling the flag in the source code.
+- Vertices are 0-indexed.
