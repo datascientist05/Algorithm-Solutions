@@ -11,12 +11,12 @@ All exercises are organized in separate subfolders for clarity.
   **Interactive Tic-Tac-Toe (n × n board)**  
   - Implements an n × n Tic-Tac-Toe game using O(n) space and O(1) time per move.  
   - Ensures safe input and interactive board display.  
-  - File: `main.cpp`(interactive_tic_tac_toe/main.cpp)
+  - [File: main.cpp](interactive_tic_tac_toe/main.cpp)
 
 - `heap_kth_smallest/`  
   **Heap k-th Smallest**  
   - Determines if the k-th smallest element in a min-heap is ≥ x using efficient recursive traversal.  
-  - File: `main.cpp`(heap_kth_smallest/main.cpp)
+  - [File: main.cpp](heap_kth_smallest/main.cpp)
 
 - `interval_scheduling/`  
   **Interval Scheduling (Activity Selection)**  
@@ -27,7 +27,7 @@ All exercises are organized in separate subfolders for clarity.
   **Graph Traversal: BFS & DFS**  
   - BFS and DFS traversal of graphs, with cycle detection for directed graphs.  
   - Adjacency list representation.  
-  - File: `main.cpp`(graph_traversal/main.cpp)
+  - [File: main.cpp](graph_traversal/main.cpp)
 
 ---
 
