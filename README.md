@@ -41,7 +41,11 @@ The goal is to have a well-organized collection of solutions for learning, refer
 
 ## Folder Structure
 - `LeetCode/` : solutions to LeetCode problems  
-- `Skiena/` : exercises from Skiena's book "The Algorithm Design Manual"  
+- Skiena/ : exercises from Skiena's book "The Algorithm Design Manual", including:
+  - tic-tac-toe: generalized n×n Tic-Tac-Toe (O(1) win check)
+  - heap-kth-smallest: check k-th smallest element in a heap in O(k)
+  - graph-traversal: BFS & DFS with cycle detection
+  - interval-scheduling: activity selection using greedy algorithm  
 - `Codeforces/` : competitive programming contests  
 - `HackerRank/` : problems from HackerRank  
 - `README.md` : this file  
