@@ -27,7 +27,7 @@ All exercises are organized in separate subfolders for clarity.
   **Graph Traversal: BFS & DFS**  
   - BFS and DFS traversal of graphs, with cycle detection for directed graphs.  
   - Adjacency list representation.  
-  - [File: main.cpp](graph-traversal/main.cpp)
+  - [File: main.cpp](graph-trasversal/main.cpp)
 
 ---
 
