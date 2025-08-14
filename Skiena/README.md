@@ -11,7 +11,7 @@ All exercises are organized in separate subfolders for clarity.
   **Interactive Tic-Tac-Toe (n × n board)**  
   - Implements an n × n Tic-Tac-Toe game using O(n) space and O(1) time per move.  
   - Ensures safe input and interactive board display.  
-  - File: `main.cpp`
+  - File: `main.cpp`[interactive_tic_tac_toe/main.cpp]
 
 - `heap_kth_smallest/`  
   **Heap k-th Smallest**  
