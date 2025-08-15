@@ -13,21 +13,27 @@ All exercises are organized in separate subfolders for clarity.
   - Ensures safe input and interactive board display.  
   - [File: main.cpp](interactive_tic_tac_toe/main.cpp)
 
-- `heap_kth_smallest/`  
+- `heap-kth-smallest/`  
   **Heap k-th Smallest**  
   - Determines if the k-th smallest element in a min-heap is ≥ x using efficient recursive traversal.  
   - [File: main.cpp](heap-kth-smallest/main.cpp)
 
-- `interval_scheduling/`  
+- `interval-scheduling/`  
   **Interval Scheduling (Activity Selection)**  
   - Greedy algorithm to select the maximum number of non-overlapping intervals.  
   - [File: main.cpp](interval-scheduling/main.cpp)
 
-- `graph_traversal/`  
+- `graph-traversal/`  
   **Graph Traversal: BFS & DFS**  
   - BFS and DFS traversal of graphs, with cycle detection for directed graphs.  
   - Adjacency list representation.  
   - [File: main.cpp](graph-trasversal/main.cpp)
+
+- `height-balanced-tree/`  
+  **Height-Balanced Binary Tree Checker**  
+  - Determines whether a binary tree is height-balanced in O(n) time using a single post-order traversal.  
+  - Includes example balanced and unbalanced trees for demonstration.   
+  - [File: main.cpp](height-balanced-tree/main.cpp)
 
 ---
 
