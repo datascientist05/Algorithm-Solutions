@@ -2,10 +2,6 @@
 using namespace std;
 
 /*
-    In a height-balanced binary tree , the difference between 
-    the heights of the left and right subtrees
-    of every node is at most 1.
-
     PROBLEM 3-17:
     Give an O(n) algorithm that determines whether a given n-node
     binary tree is height-balanced.
